@@ -27,7 +27,9 @@ SECRET_KEY = 'vx(g#(vo3gpw#$!puhpw&vu6r@z%am%j9r0+dsrt_$pwf&^awc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '*'
+]
 
 
 # Application definition
