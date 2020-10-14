@@ -3,6 +3,7 @@ autopep8==1.4.4
 Django==3.0.1
 django-crispy-forms==1.8.1
 Pillow==6.2.1
+psycopg2==2.8.6
 pycodestyle==2.5.0
 python-dotenv==0.10.3
 pytz==2019.3
